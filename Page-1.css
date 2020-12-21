@@ -1,0 +1,374 @@
+.u-section-1 {
+  background-image: url("images/workgroup.jpeg");
+  background-position: 50% 50%;
+  min-height: 660px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 225px;
+  height: 370px;
+  margin: 475px 0 0 auto;
+}
+
+.u-section-1 .u-group-1 {
+  width: 699px;
+  min-height: 407px;
+  height: auto;
+  margin: -627px auto 35px calc(((100% - 1140px) / 2));
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 8rem;
+  font-weight: 700;
+  line-height: 1;
+  margin: 30px 0 0;
+}
+
+.u-section-1 .u-text-2 {
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  font-weight: 700;
+  font-size: 1.25rem;
+  margin: 20px 0 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 {
+    min-height: 428px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 186px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 576px;
+    margin-left: calc(((100% - 940px) / 2));
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  .u-section-1 .u-text-1 {
+    position: relative;
+  }
+
+  .u-section-1 .u-text-2 {
+    position: relative;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 {
+    min-height: 301px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 142px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 441px;
+    margin-left: calc(((100% - 720px) / 2));
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 13px;
+    padding-right: 13px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 {
+    min-height: 197px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 133px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 414px;
+    margin-left: calc(((100% - 540px) / 2));
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 9px;
+    padding-right: 9px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 40px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-bottom: 40px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 {
+    min-height: 81px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 112px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 340px;
+    margin-left: calc(((100% - 340px) / 2));
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 6px;
+    padding-right: 6px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 6rem;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 463px;
+}
+
+.u-section-2 .u-group-1 {
+  width: 849px;
+  min-height: 402px;
+  margin: 44px auto 0 0;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.u-section-2 .u-text-1 {
+  font-weight: 700;
+  font-size: 3.75rem;
+  margin: 27px 0 0;
+}
+
+.u-section-2 .u-text-2 {
+  margin: 20px 0 0;
+}
+
+.u-section-2 .u-btn-1 {
+  background-image: none;
+  font-weight: 700;
+  font-size: 0.875rem;
+  margin: 20px auto 27px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-group-1 {
+    width: 700px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  .u-section-2 .u-text-1 {
+    position: relative;
+  }
+
+  .u-section-2 .u-text-2 {
+    position: relative;
+  }
+
+  .u-section-2 .u-btn-1 {
+    position: relative;
+    margin-right: 576px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-group-1 {
+    width: 536px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 13px;
+    padding-right: 13px;
+  }
+
+  .u-section-2 .u-btn-1 {
+    margin-right: 441px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-group-1 {
+    width: 426px;
+    min-height: 577px;
+    margin-bottom: -73px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 9px;
+    padding-right: 9px;
+  }
+
+  .u-section-2 .u-btn-1 {
+    margin-right: 331px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 817px;
+  }
+
+  .u-section-2 .u-group-1 {
+    width: 340px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 6px;
+    padding-right: 6px;
+  }
+
+  .u-section-2 .u-btn-1 {
+    margin-right: 208px;
+  }
+}.u-section-3 {
+  background-image: url("images/group-fitness-classes.png");
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 672px;
+}
+
+.u-section-3 .u-image-1 {
+  width: 390px;
+  height: 214px;
+  margin: 458px 9px 0 auto;
+}
+
+.u-section-3 .u-group-1 {
+  width: 715px;
+  min-height: 418px;
+  margin: -535px auto 65px 0;
+}
+
+.u-section-3 .u-container-layout-1 {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.u-section-3 .u-text-1 {
+  font-weight: 700;
+  font-size: 3.75rem;
+  margin: 40px 0 0;
+}
+
+.u-section-3 .u-text-2 {
+  margin: 20px 0 0;
+}
+
+.u-section-3 .u-btn-1 {
+  background-image: none;
+  font-size: 0.875rem;
+  font-weight: 700;
+  margin: 20px auto 40px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 671px;
+  }
+
+  .u-section-3 .u-image-1 {
+    width: 322px;
+    height: 194px;
+    margin-top: 478px;
+    margin-right: 7px;
+  }
+
+  .u-section-3 .u-group-1 {
+    width: 590px;
+  }
+
+  .u-section-3 .u-container-layout-1 {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 721px;
+  }
+
+  .u-section-3 .u-image-1 {
+    width: 246px;
+    height: 147px;
+    margin-top: 574px;
+    margin-right: 9px;
+  }
+
+  .u-section-3 .u-group-1 {
+    width: 452px;
+    margin-top: -584px;
+  }
+
+  .u-section-3 .u-container-layout-1 {
+    padding-left: 13px;
+    padding-right: 13px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 746px;
+  }
+
+  .u-section-3 .u-image-1 {
+    width: 231px;
+    height: 140px;
+    margin-top: 606px;
+    margin-right: 0;
+  }
+
+  .u-section-3 .u-group-1 {
+    width: 423px;
+    margin-top: -609px;
+  }
+
+  .u-section-3 .u-container-layout-1 {
+    padding-left: 9px;
+    padding-right: 9px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 796px;
+  }
+
+  .u-section-3 .u-image-1 {
+    width: 194px;
+    height: 109px;
+    margin-top: 687px;
+  }
+
+  .u-section-3 .u-group-1 {
+    width: 340px;
+    margin-top: -659px;
+  }
+
+  .u-section-3 .u-container-layout-1 {
+    padding-left: 6px;
+    padding-right: 6px;
+  }
+}
